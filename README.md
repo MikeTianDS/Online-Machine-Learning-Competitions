@@ -11,9 +11,17 @@ https://tianchi.aliyun.com/
 http://www.pkbigdata.com/
 
 
-### 1.Customer Profile Prediction based on Search Histories (DataFountain, Top 1%)     
+
+
+### 1.Customer Profile Prediction based on Search Histories (DataFountain, Top 1%)   
+
+
+Link:https://www.datafountain.cn/competitions/239/details
+
+
 
  •   Implemented classification models for customers’ attributes(age/gender/education) by their text queries on search engines
+ 
  
  •   Built stacking model of DNN/LR/NB with multiple representation methods (TF-IDF/Word2Vec/Doc2Vec/LDA/pattern analysis)
 
