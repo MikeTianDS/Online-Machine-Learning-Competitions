@@ -43,6 +43,7 @@ Link:https://github.com/MikeTianDS/Online-Machine-Learning-Competitions/tree/mas
  
  ### 2.Online Loan Default Risk Controlling - predict probabilities of users repaying their loans on time   | @DataCastle, TOP 1%
  Link:https://github.com/MikeTianDS/Online-Machine-Learning-Competitions/tree/master/loan_predicting
+ 
 •   Explored multiple discretization and imputation methods for feature engineering; used SVM and XGBoost as baselines
 •   Built bagging of multiple XGBoost with different features to prevent overfitting; used semi-supervised learning for data augmentation
 
@@ -50,13 +51,18 @@ Link:https://github.com/MikeTianDS/Online-Machine-Learning-Competitions/tree/mas
 
 
 ### 3. Supply Chain Demand Forecast - predict next 5 weeks sales volume for an E-commerce platform    | @DataFountain, TOP 5%
+
 •  Imported external data(i.e. weather); Feature Engineering (time-series, ranking); Modeling by Linear Regression,Rule-based and LightGBM
 
 
 
 
 ### 4.TalkingData AdTracking Fraud Detection - predict whether users will download after clicking Ads   | @Kaggle, TOP 5%
+
+
 Link:https://github.com/MikeTianDS/Online-Machine-Learning-Competitions/tree/master/Kaggle_AdTrackingFraud
+
+
 •   Applied feature engineering(click pattern, conversion) for more than 190 millions records and used LightGBM to build the mode
 
 
